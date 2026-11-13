@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kellylee4513-glitch.github.io/oreumpass/sitemap.xml
